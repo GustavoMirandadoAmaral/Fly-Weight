@@ -1,3 +1,3 @@
 Diagrama de classes:
 
-<img width="856" height="739" alt="image" src="https://github.com/user-attachments/assets/cdfed8cb-6fe3-4814-aae6-0afdf70b6ea8" />
+<img width="643" height="616" alt="image" src="https://github.com/user-attachments/assets/9dd21550-3858-4b65-9f42-eb1d9386c055" />
